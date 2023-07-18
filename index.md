@@ -1,8 +1,7 @@
 ---
 layout: single
+title: "Witaj na stronie naszego Związku!"
 ---
-
-# Witaj na stronie naszego Związku!
 
 ## O nas
 Jesteśmy grupą pracowników Allegro i założyliśmy Związek Zawodowy w kwietniu 2023 r. Reprezentujemy osoby ze wszystkich spółek i działów Grupy Allegro. Zależy nam na zbudowaniu dużej, solidarnej i inkluzywnej reprezentacji pracowników, by
