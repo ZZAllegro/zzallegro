@@ -17,6 +17,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "pl-PL"
 title                    : "Związek Zawodowy Pracowników Allegro"
+title_addon              : "Komisja OZZ Inicjatywa Pracownicza"
 title_separator          : "-"
 subtitle                 : "Dołącz do naszej paczki - komisjazzallegro [at] gmail [dot] com"
 name                     : "ZZALLEGRO team"
