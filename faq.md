@@ -31,7 +31,7 @@ Poza dumą związkową:
 
  * Będziesz wiedzieć o planowanych zwolnieniach. Zanim pracodawca złoży wypowiedzenie, musi zwrócić się do organizacji związkowej, aby dowiedzieć się, czy zwalniany (jeśli jest zatrudniony na umowę na czas nieokreślony) podlega ochronie związkowej. 
  * Jeśli masz umowę na czas nieokreślony, masz prawo, żeby w Twojej sprawie pracowniczej związek “zajął stanowisko” - co realnie może przełożyć się na sprzeciw wobec zwolnienia. 
- * Będziesz mieć wpływ na wybór władz związku zawodowego w Allegro (obecnie działamy w formie władz tymczasowych). 
+ * Będziesz mieć wpływ na wybór władz związku zawodowego w Allegro. 
  * Będziesz mieć wpływ na sprawy, którymi zajmuje się związek zawodowy. 
 
 # 6. Czy pracodawca będzie wiedział, że należę do związku?
