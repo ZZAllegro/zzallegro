@@ -64,6 +64,58 @@ Czy wiesz, że….
  * Wbrew obiegowym opiniom, związki zawodowe funkcjonują także w branży technologicznej, z takimi przykładami jak Alphabet (właściciel Googla), IBM lub Apple. 
  * W Polsce jednym z bardziej ostatnio widocznych działań związków był wynik negocjacji w sprawie zwolnień grupowych w Agorze. 
 
+# 10. Składka związkowa
+
+## a. Jak opłacić składkę związkową?
+
+Przelewem na wskazany poniżej numer konta. Możesz ustawić stałe, comiesięczne zlecenie wpłaty, by nie musieć o niej pamiętać. Rekomendujemy to rozwiązanie :) 
+
+Numer konta: 
+
+**37 2130 0004 2001 0577 6570 0046**
+
+Dane adresowe do przelewu:
+
+**OZZ Inicjatywa Pracownicza**
+**ul. Kościelna 4/1a, 60-538 Poznań**
+
+Tytuł przelewu: **Składka**
+
+Bez żadnych adnotacji/dopisków z nazwą naszej komisji. To subkonto założone przez Inicjatywę Pracowniczą, lecz dedykowane tylko naszemu Związkowi.
+
+Tytuł jest ważny, ponieważ ułatwi skarbniczce IP prowadzenie księgowości dla nas.
+
+## b. Ile wpłacać?
+
+Składka wynosi **15 zł miesięcznie**. 
+
+## c. Czy można opłacić składki z góry za np. 3 miesiące, pół roku albo rok? 
+
+Można! Wystarczy wpłacić odpowiednią wielokrotność kwoty miesięcznej składki. Nie trzeba tego w żaden sposób zgłaszać. Wystarczy w tytule przelewu wpisać np. „Składka 3 miesiące”. 
+
+## d. Czy można opłacać składki z konta, które nie jest na moje dane? 
+
+Tak. Ważne żeby w tytule znalazło się imię i nazwisko osoby której ta wpłata dotyczy. Potrzebujemy tych danych, żeby np. móc przypominać o płatnościach w razie gdyby pojawiły się zaległości. 
+
+## e. Chcę dodatkowo wspierać działalność związkową, czy mogę wpłacić więcej niż wysokość miesięcznej składki? 
+
+Jak najbardziej! 
+
+## f. Mam trudności z wygospodarowaniem takiej kwoty. Czy mogę wpłacić mniej? 
+
+W takich sytuacjach prosimy o kontakt. Będziemy szukać rozwiązań dopasowanych indywidualnie. 
+
+## g. Na co przeznaczane są składki? 
+
+Kwotę składki 15 zł dzielimy: 
+ 
+ * **7 zł** przekazywane jest na potrzeby komisji krajowej IP i przeznaczane m.in. na wsparcie prawne, organizację szkoleń, demonstracji itp.
+ * **8 zł** pozostaje dla naszej komisji. Środki te przeznaczamy m.in.: 
+   * na potrzeby dokumentacji związkowej — koszty druku, zakup segregatorów itp.
+   * ulotki i transparenty na demonstracje, 
+   * opłacenie strony internetowej
+   * inne cele, które będziemy wspólnie ustalać na spotkaniach :) 
+
 Jeśli masz jakieś pytania, daj nam znać na [komisjazzallegro@gmail.com][1]. 
 
 [1]: mailto:komisjazzallegro@gmail.com
