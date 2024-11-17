@@ -42,7 +42,7 @@ Nie. Lista członków związku jest niejawna i tylko od Ciebie zależy, czy zech
 
 To zależy od tego, na ile chcesz i możesz się zaangażować:
 
- * W wersji minimum: płacisz składki, które wynoszą 15 PLN (daj znać, jeśli jej wysokość byłaby przeszkodą do dołączenia przez Ciebie) i w miarę możliwości bierzesz udział w głosowaniach dotyczących kluczowych decyzji związku (głosujemy podczas spotkań online). 
+ * W wersji minimum: płacisz składki, które wynoszą 20 PLN (daj znać, jeśli jej wysokość byłaby przeszkodą do dołączenia przez Ciebie) i w miarę możliwości bierzesz udział w głosowaniach dotyczących kluczowych decyzji związku (głosujemy podczas spotkań online). 
  * W wersji maksimum, do której Cię zachęcamy: aktywnie uczestniczysz w pracach związku. Roboty różnego rodzaju nie brakuje, daj znać, jeśli chcesz się zaangażować! 
 
 To, czego nie musisz, to ujawniać się komukolwiek poza związkiem zawodowym jako osoba należąca do związku. 
@@ -87,7 +87,7 @@ Tytuł jest ważny, ponieważ ułatwi skarbniczce IP prowadzenie księgowości d
 
 ## b. Ile wpłacać?
 
-Składka wynosi **15 zł miesięcznie**. 
+Składka wynosi **20 zł miesięcznie**. 
 
 ## c. Czy można opłacić składki z góry za np. 3 miesiące, pół roku albo rok? 
 
@@ -107,10 +107,10 @@ W takich sytuacjach prosimy o kontakt. Będziemy szukać rozwiązań dopasowanyc
 
 ## g. Na co przeznaczane są składki? 
 
-Kwotę składki 15 zł dzielimy: 
+Kwotę składki 20 zł dzielimy: 
  
  * **7 zł** przekazywane jest na potrzeby komisji krajowej IP i przeznaczane m.in. na wsparcie prawne, organizację szkoleń, demonstracji itp.
- * **8 zł** pozostaje dla naszej komisji. Środki te przeznaczamy m.in.: 
+ * **13 zł** pozostaje dla naszej komisji. Środki te przeznaczamy m.in.: 
    * na potrzeby dokumentacji związkowej — koszty druku, zakup segregatorów itp.
    * ulotki i transparenty na demonstracje, 
    * opłacenie strony internetowej
